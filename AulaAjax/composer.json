@@ -1,0 +1,10 @@
+{
+    "name": "tayna/meu-pacote",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Tayna\\MeuPacote\\": "src/"
+        }
+    },
+    "require": {}
+}
